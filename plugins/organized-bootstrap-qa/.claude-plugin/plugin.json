@@ -1,0 +1,15 @@
+{
+  "name": "organized-bootstrap-qa",
+  "displayName": "Organized Bootstrap + QA",
+  "description": "Applies the Organized Codebase template, enforces the phase-gated bootstrap QA loop via a Stop hook, and ships the spec/build/review Loop Engineering skills.",
+  "author": {
+    "name": "Jordaaan",
+    "url": "https://github.com/Organized-AI"
+  },
+  "homepage": "https://github.com/Organized-AI/organized-workshop",
+  "repository": "https://github.com/Organized-AI/organized-workshop",
+  "keywords": ["bootstrap", "qa-gate", "loop-engineering", "organized-codebase"],
+  "skills": "./skills/",
+  "commands": ["./commands/"],
+  "hooks": "./hooks/hooks.json"
+}
