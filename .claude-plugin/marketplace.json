@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "organized-workshop",
+  "description": "Plugin marketplace for Organized Workshop / Organized AI tooling. Starts with the bootstrap + QA gate + Loop Engineering skills; promote to a standalone Organized-AI/claude-plugins marketplace once more plugins exist.",
+  "owner": {
+    "name": "Organized AI",
+    "url": "https://github.com/Organized-AI"
+  },
+  "plugins": [
+    {
+      "name": "organized-bootstrap-qa",
+      "description": "Applies the Organized Codebase template, runs the phase-gated bootstrap QA loop, and provides the spec/build/review Loop Engineering skills.",
+      "source": "./plugins/organized-bootstrap-qa",
+      "category": "development"
+    }
+  ]
+}
