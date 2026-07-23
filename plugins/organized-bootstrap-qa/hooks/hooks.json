@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/scripts/qa/bootstrap-qa.sh \"${CLAUDE_PROJECT_DIR}\" all"
+          }
+        ]
+      }
+    ]
+  }
+}
