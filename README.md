@@ -19,3 +19,7 @@ merged to `main` as of this commit). See `scripts/apply-organized-codebase.sh`
 and `scripts/qa/bootstrap-qa.sh`.
 
 Full phased build order: `PLANNING/organized-workshop-phased-plan.md`
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
